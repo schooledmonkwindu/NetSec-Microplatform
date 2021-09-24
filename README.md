@@ -1,2 +1,5 @@
 # NetSec-Microplatform
-this is a repository for my assignment where i create a cloud microplatform in Microsoft Azure.
+This is a repository for my assignment where I create a cloud microplatform in Microsoft Azure.
+
+## Table of Contents
+Microplatform.html - will be pushed to the webapp
