@@ -1,7 +1,7 @@
 # NetSec-Microplatform
 This is a repository for my assignment where I create a cloud microplatform in Microsoft Azure.
 
-This will use a micro-Paas and should work somewhat ok.
+This will use a micro-PaaS and should work somewhat ok.
 
 ## Table of Contents
 homepage.html - homepage for the webapp
